@@ -19,6 +19,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 > masuk ke apk termux lalu ketik dibawah ini!
 > git clone https://github.com/Diky11/botdiki
 > cd botdiki
+> npm i -g cwebp && npm i -g ytdl
+> npm i && npm i got
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
